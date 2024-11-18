@@ -1,0 +1,126 @@
+{
+          "projects": [
+                    {
+                              "id": "dismissed-2024",
+                              "title": "Dismissed",
+                              "titleHebrew": "נדחה",
+                              "year": 2024,
+                              "rating": 8.0,
+                              "type": "TV Series",
+                              "episodes": 30,
+                              "posterUrls": [
+                                        "/images/dismissed_cast_01.jpeg",
+                                        "/images/dismissed_cast_02.jpeg",
+                                        "/images/dismissed_cast_03.jpeg"
+                              ],
+                              "description": "Drama series about...",
+                              "cast": ["Habub", "Aaron"],
+                              "yearSpan": "2021-2024",
+                              "role": "Casting Director",
+                              "director": "John Doe",
+                              "productionCompany": "ABC Productions",
+                              "broadcaster": "XYZ Network",
+                              "seasons": 3,
+                              "prizes": {
+                                        "actors": ["Best Actor Award"],
+                                        "castingDirector": [
+                                                  "Best Casting Director Award"
+                                        ]
+                              },
+                              "imdbUrl": "https://imdb.com/title/tt1234567",
+                              "trailerUrl": "https://youtube.com/..."
+                    },
+                    {
+                              "id": "night-therapy-2024",
+                              "title": "Night Therapy",
+                              "titleHebrew": "טיפול לילה",
+                              "year": 2024,
+                              "rating": 8.3,
+                              "type": "TV Series",
+                              "episodes": 7,
+                              "role": "Casting Director",
+                              "posterUrls": [
+                                        "/images/dismissed_cast_01.jpeg",
+                                        "/images/dismissed_cast_02.jpeg",
+                                        "/images/dismissed_cast_03.jpeg"
+                              ],
+                              "description": "",
+                              "cast": [],
+                              "yearSpan": "2024",
+                              "director": "Jane Smith",
+                              "productionCompany": "DEF Productions",
+                              "broadcaster": "UVW Network",
+                              "seasons": 1,
+                              "prizes": {
+                                        "actors": [
+                                                  "Best Supporting Actor Award"
+                                        ],
+                                        "castingDirector": [
+                                                  "Outstanding Casting Award"
+                                        ]
+                              },
+                              "imdbUrl": "https://imdb.com/title/tt2345678",
+                              "trailerUrl": "https://youtube.com/..."
+                    },
+                    {
+                              "id": "8200-2024",
+                              "title": "8200",
+                              "titleHebrew": "8200",
+                              "year": 2024,
+                              "rating": 8.0,
+                              "type": "TV Series",
+                              "episodes": 8,
+                              "role": "Casting Director",
+                              "posterUrls": [
+                                        "/images/dismissed_cast_01.jpeg",
+                                        "/images/dismissed_cast_02.jpeg",
+                                        "/images/dismissed_cast_03.jpeg"
+                              ],
+                              "description": "",
+                              "cast": [],
+                              "yearSpan": "2024",
+                              "director": "Michael Johnson",
+                              "productionCompany": "GHI Productions",
+                              "broadcaster": "RST Network",
+                              "seasons": 1,
+                              "prizes": {
+                                        "actors": ["Best Ensemble Cast Award"],
+                                        "castingDirector": [
+                                                  "Best Casting in a Drama Series"
+                                        ]
+                              },
+                              "imdbUrl": "https://imdb.com/title/tt3456789",
+                              "trailerUrl": "https://youtube.com/..."
+                    },
+                    {
+                              "id": "manayek-2024",
+                              "title": "Manayek",
+                              "titleHebrew": "מנאייק",
+                              "year": 2024,
+                              "rating": 8.0,
+                              "type": "TV Series",
+                              "episodes": 30,
+                              "role": "Casting Director",
+                              "posterUrls": [
+                                        "/images/dismissed_cast_01.jpeg",
+                                        "/images/dismissed_cast_02.jpeg",
+                                        "/images/dismissed_cast_03.jpeg"
+                              ],
+                              "description": "",
+                              "cast": [],
+                              "yearSpan": "2024",
+                              "director": "Emily Davis",
+                              "productionCompany": "JKL Productions",
+                              "broadcaster": "OPQ Network",
+                              "seasons": 2,
+                              "prizes": {
+                                        "actors": ["Best Actress Award"],
+                                        "castingDirector": [
+                                                  "Excellence in Casting Award"
+                                        ]
+                              },
+                              "imdbUrl": "https://imdb.com/title/tt4567890",
+                              "trailerUrl": "https://youtube.com/..."
+                    }
+          ]
+}
